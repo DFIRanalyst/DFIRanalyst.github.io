@@ -4,6 +4,7 @@ title: About
 icon: fas fa-info-circle
 order: 4
 ---
+
 Welcome! I'm Akil, a cybersecurity analyst focused on incident response, threat hunting, and detection engineering.
 
 This site is where I document my journey, writeups, notes and anything interesting from the field. 
