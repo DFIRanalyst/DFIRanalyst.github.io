@@ -1,10 +1,9 @@
-
 ---
 # the default layout is 'page'
-title: About
 icon: fas fa-info-circle
 order: 4
 ---
+
 
 Welcome! I'm Akil, a cybersecurity analyst focused on incident response, threat hunting, and detection engineering.
 
