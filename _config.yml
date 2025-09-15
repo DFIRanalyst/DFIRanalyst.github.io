@@ -19,7 +19,7 @@ title: DFIR analyst # the main title
 tagline: From Detections to Response # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  My Journey Through DFIR, Threat Hunting and Detection Engineering.
+  My Journey Through DFIR, Threat Hunting and Detection Engineering. remove
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
