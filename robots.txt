@@ -1,14 +1,39 @@
+# Block all crawlers from the about page
 User-agent: *
-Disallow: /about
+Disallow: /about/
 
+# Block GPTBot (OpenAI)
 User-agent: GPTBot
 Disallow: /
 
+# Block ChatGPT-User (used by OpenAI's browsing)
+User-agent: ChatGPT-User
+Disallow: /
+
+# Block ClaudeBot (Anthropic)
+User-agent: ClaudeBot
+Disallow: /
+
+# Block Google-Extended (used for AI training, even if indexing is allowed)
 User-agent: Google-Extended
 Disallow: /
 
+# Block CCBot (Common Crawl)
 User-agent: CCBot
 Disallow: /
 
-User-agent: Anthropic
+# Block Amazonbot (used by Amazon AI services)
+User-agent: Amazonbot
+Disallow: /
+
+# Block Bytespider (ByteDance / TikTok AI crawler)
+User-agent: Bytespider
+Disallow: /
+
+# Block Facebook's AI crawler (if known)
+User-agent: FacebookBot
+Disallow: /
+
+# Block Applebot AI training (used for Siri/Apple ML)
+User-agent: Applebot
 Disallow: /
