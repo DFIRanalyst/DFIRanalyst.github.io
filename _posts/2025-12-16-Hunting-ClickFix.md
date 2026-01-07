@@ -103,7 +103,9 @@ Admins, power users, or IT support staff often use built-in tools like cmd, msht
 
 ## Validation
 
-(/assets/img/ClickFix.png)
+![Found something bad!](/assets/img/ClickFix.png)
+
+Found a scheduled task with a Base64 payload. Definitely not normal, likely an obfuscated execution attempt.
 
 
 ## Response Tips
