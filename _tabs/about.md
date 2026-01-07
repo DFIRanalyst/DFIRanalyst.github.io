@@ -17,5 +17,6 @@ This site is where I document my journey, writeups, notes and anything interesti
 <img src="/assets/img/AB.png" alt="AdvisoryBoard" width="100" />
 <img src="/assets/img/GCFE.png" alt="GCFE" width="100" />
 <img src="/assets/img/AB.png" alt="AdvisoryBoard" width="100" />
+<img src="/assets/img/GCFA.png" alt="GCFA" width="100" />
 
 </div>
