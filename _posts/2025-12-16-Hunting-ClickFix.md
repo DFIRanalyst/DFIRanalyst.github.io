@@ -105,8 +105,7 @@ Admins, power users, or IT support staff often use built-in tools like cmd, msht
 
 ![Found something bad!](/assets/img/ClickFix.png)
 
-Found a scheduled task with a Base64 payload. Definitely not normal, likely an obfuscated execution attempt.
-
+Found a scheduled task with a Base64 payload. Definitely not normal.
 
 ## Response Tips
 
