@@ -2,7 +2,7 @@
 title: "Catching SMB Share Crawling with Windows Event ID 5140"
 date: 2025-09-12 14:00:00 -0400
 categories: [Splunk, Windows Event Logs]
-tags: [SMB, EventID 5140, Splunk, T1135, Threat Hunting, Detection Engineering]
+tags: [SMB, EventID 5140, Splunk, T1039, Threat Hunting, Detection Engineering]
 ---
 
 
