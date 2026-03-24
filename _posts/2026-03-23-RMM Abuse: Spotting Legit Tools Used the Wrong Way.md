@@ -97,7 +97,7 @@ Treat these alerts seriously. If usage wasn’t expected, it could indicate unau
 * Review recent logon activity tied to the same account
 * Confirm whether the tool is approved in your environment
 
-  If it wasn’t authorized:
+If it wasn’t authorized:
 
     * Isolate the system
     * Remove the tool and any persistence mechanisms
@@ -117,6 +117,7 @@ That’s where this detection adds value.
 ## References
 
 [Threat hunting case study: RMM software](https://www.intel471.com/blog/threat-hunting-case-study-rmm-software)
+
 [Mitre ATT&CK](https://attack.mitre.org/techniques/T1219/)
 
 
